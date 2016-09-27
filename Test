@@ -1,1 +1,42 @@
+Linkedin
+Тест 1
+Добавляем фото
+1. Кликаем Add a photo
+2. Выбираем фото, Browse..
+3. Кликаем Save
+При успешном добавлении выдим your picture has been saved
 
+Тест 2
+Добавляем background photo
+1. Кликаем Add a background photo
+2. Выбираем фото 
+3. Кликаем open
+4. Кликаем Save
+При успешном добавлении выдим your picture has been saved
+
+Тест 3
+Добавляем язык
+1. Кликаем add language
+2. Выбираем Язык, выбираем уровень владения языком 
+3. кликаем Save
+появляется добавленный язык в поле Languages
+
+Тест 4
+Удаляем фото
+1. кликаем Change photo
+2. кликаем delete photo 
+При успешном удалении выдим your picture has been removed
+
+Тест 5
+Изменяем фото
+1. кликаем Change photo
+2. кликаем Change photo и выбираем новое фото
+3. Кликаем Save
+При успешном добавлении выдим your picture has been saved
+
+Тест 6
+Авторизация
+1. Нажимаем Sign in
+2. вводим email и пароль 
+3. Кликаем Sign in
+При успешной авторизации происходит переход на главную аккаунта 
